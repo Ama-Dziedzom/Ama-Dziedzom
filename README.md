@@ -21,8 +21,7 @@
 
 ## 🛠️ Tech & Tools
 
-- **Design:** Figma, Rive, Pen & Paper
-- **AI:** ChatGPT, Gemini, Rork
+- **Design:** Figma, Pen & Paper
 - **Frontend:** HTML, CSS, JavaScript, React (learning)
 - **Backend:** PostgreSQL (learning)
 - **Other:** Git & GitHub, Notion, Slack
@@ -31,7 +30,7 @@
 
 ## 🌱 Currently Learning
 
-- Full stack development (React,PostgreSQL, REST APIs, databases)
+- Full-stack development (React, PostgreSQL, REST APIs, databases)
 - Integrating AI into the design workflow
 - Building design systems and component libraries
 
@@ -53,4 +52,4 @@
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs.

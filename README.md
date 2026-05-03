@@ -1,19 +1,22 @@
 # 👋 Hi, I’m Ama Dziedzom
 
-**Product Designer | AI Explorer | Aspiring Full Stack Designer**
+**Product Designer who builds what she designs.**
 
 ---
 
 🌟 **About Me:**
-- Passionate Product Designer with a knack for crafting delightful user experiences.
-- Currently exploring the intersection of AI & design, leveraging cutting-edge tools to supercharge creativity and productivity.
-- On a journey to become a Full Stack Designer: blending design intuition with code to build impactful digital products end-to-end.
+I'm a product designer and builder based in Accra, Ghana. After hours I'm building things. Not because there's a business plan. 
+Because I designed something and couldn't leave it alone until it existed in the world.
+
+That's just how my brain is wired.
+
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🧠 Experimenting with AI tools for design ideation, prototyping, and automation (think: Figma plugins, Midjourney, ChatGPT)
+- LogIt — a personal spending tracker that auto-parses MoMo and Bank SMS messages. No manual logging. Built for Ghanaian users on mobile money, not American users with bank APIs.
+- Attendance Hub — biometric attendance management system. Designed and built from scratch. Live.
 - 💻 Leveling up my coding skills, diving into HTML, CSS, JavaScript, and React, with a growing interest in backend development (PostgreSQL)
 - ✨ Advocating for inclusive, accessible, and human-centered design in every project
 
@@ -22,34 +25,28 @@
 ## 🛠️ Tech & Tools
 
 - **Design:** Figma, Pen & Paper
-- **Frontend:** HTML, CSS, JavaScript, React (learning)
-- **Backend:** PostgreSQL (learning)
-- **Other:** Git & GitHub, Notion, Slack
+- **Frontend:** React, TypeScript, Next.js, HTML/CSS
+- **Backend:** Supabase, PostgreSQL, REST APIs
+- **AI:** Claude, Antigravity
+- **Other:** Git & GitHub, Notion
 
 ---
 
-## 🌱 Currently Learning
+## 📝 Writing
 
-- Full-stack development (React, PostgreSQL, REST APIs, databases)
-- Integrating AI into the design workflow
-- Building design systems and component libraries
-
----
-
-## 💡 Fun Facts
-
-- I believe great design is invisible, but great experiences are unforgettable.
-- Forever curious, always learning, and happy to share knowledge!
-- Open to collaborations, mentorship, and creative conversations.
+I write about design and building on Medium when something bothers me enough that I have to get it out.
+- That's Not a Design Question! — Until It Is.
+- From Curiosity to Clarity: The No-Code & AI Tools I Loved vs. Dropped
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Find me!
 
 - [LinkedIn](https://www.linkedin.com/in/dziedzom-barnor)  
-- [Twitter](https://twitter.com/dbarnor)  
+- [Twitter](https://twitter.com/dbarnor)
+- [Medium](https://medium.com/@dbarnor56) 
 - Email: dziedzom.barnor@gmail.com
 
 ---
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs.
+> The gap between design and code? I live there.

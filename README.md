@@ -17,8 +17,6 @@ That's just how my brain is wired.
 
 - LogIt — a personal spending tracker that auto-parses MoMo and Bank SMS messages. No manual logging. Built for Ghanaian users on mobile money, not American users with bank APIs.
 - Attendance Hub — biometric attendance management system. Designed and built from scratch. Live.
-- 💻 Leveling up my coding skills, diving into HTML, CSS, JavaScript, and React, with a growing interest in backend development (PostgreSQL)
-- ✨ Advocating for inclusive, accessible, and human-centered design in every project
 
 ---
 

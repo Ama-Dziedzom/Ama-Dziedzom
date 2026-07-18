@@ -1,22 +1,18 @@
-# 👋 Hi, I’m Ama Dziedzom
+# 👋 Hi, I'm Ama Dziedzom
 
-**Product Designer who builds what she designs.**
+**Product & design lead who ships — and builds what she designs.**
 
 ---
 
-🌟 **About Me:**
-I'm a product designer and builder based in Accra, Ghana. After hours I'm building things. Not because there's a business plan. 
-Because I designed something and couldn't leave it alone until it existed in the world.
-
-That's just how my brain is wired.
+🌟 **About Me:** I'm a product person based in Accra, Ghana. I take products from requirements through delivery to launch, and I build too. Shipping real code taught me system design and the full product lifecycle in a way mockups never could. That mix product ownership plus hands-on technical fluency is how I bridge business and engineering without losing either side.
 
 
 ---
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Building
 
-- LogIt — a personal spending tracker that auto-parses MoMo and Bank SMS messages. No manual logging. Built for Ghanaian users on mobile money, not American users with bank APIs.
-- Attendance Hub — biometric attendance management system. Designed and built from scratch. Live.
+- **LogIt** — personal spending tracker that auto-parses MoMo and bank SMS messages; no manual logging. Built for Ghanaian mobile-money users.
+  React Native · Supabase.
 
 ---
 
